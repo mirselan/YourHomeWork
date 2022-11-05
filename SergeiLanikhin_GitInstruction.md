@@ -14,4 +14,14 @@
 
 ## Lesson 2:
 
+* ***git branch*** - command, that return list of branches
+
+* ***git branch branch_name*** - command for creating new branch
+
+* ***git checkout branch_name*** - command for switch to different branch
+
+* ***git merge branch_name*** - command for merge one branch to another
+
+* ***git branch -d branch_name'*** - command for delete branch
+
 ## Lesson 3:
