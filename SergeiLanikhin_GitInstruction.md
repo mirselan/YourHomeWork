@@ -25,3 +25,13 @@
 * ***git branch -d branch_name'*** - command for delete branch
 
 ## Lesson 3:
+
+* ***git branch -M branch_name*** - command for pointing which branch will be main
+
+* ***git remote add origin origin_address*** - command for add remote origin
+
+* ***git push -u origin origin_branch_name*** - command for pushing information from local repository to remote origin
+
+* ***git pull*** - command for pulling information from remote origin to local repository
+
+* ***git clone origin_address*** - command for cloning remote origin to local machine
