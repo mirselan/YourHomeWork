@@ -8,6 +8,8 @@
 
 * ***git add file_name*** - command for add current file into git control area
 
+* ***git add .*** - command for add all files into git control area
+
 * ***git commit -m 'your comment'*** - command for commit changes in all files under git control
 
 * ***git commit --amend -m 'new comment'*** - command for changing your comments
